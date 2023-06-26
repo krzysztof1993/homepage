@@ -1,0 +1,1 @@
+console.log(`Cześć wszystkim znowu robie ten kurs po raz ${4}, tym razem jak należy`)
